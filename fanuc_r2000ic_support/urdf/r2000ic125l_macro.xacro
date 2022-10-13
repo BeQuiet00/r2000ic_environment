@@ -8,14 +8,14 @@
       <visual>
         <origin xyz="0 0 0" rpy="0 0 0"/>
         <geometry>
-          <mesh filename="package://fanuc_r2000ic_support/meshes/r2000ic125l/visual/base_link.stl" />
+          <mesh filename="package://fanuc_r2000ic_support/meshes/r2000ic125l/visual/base_link.STL" />
         </geometry>
         <xacro:material_fanuc_gray40 />
       </visual>
       <collision>
         <origin xyz="0 0 0" rpy="0 0 0"/>
         <geometry>
-          <mesh filename="package://fanuc_r2000ic_support/meshes/r2000ic125l/collision/base_link.stl" />
+          <mesh filename="package://fanuc_r2000ic_support/meshes/r2000ic125l/collision/base_link.STL" />
         </geometry>
       </collision>
       <inertial>
@@ -37,14 +37,14 @@
       <visual>
         <origin xyz="0 0 0" rpy="0 0 0"/>
         <geometry>
-          <mesh filename="package://fanuc_r2000ic_support/meshes/r2000ic125l/visual/link_1.stl" />
+          <mesh filename="package://fanuc_r2000ic_support/meshes/r2000ic125l/visual/link_1.STL" />
         </geometry>
         <xacro:material_fanuc_yellow />
       </visual>
       <collision>
         <origin xyz="0 0 0" rpy="0 0 0"/>
         <geometry>
-          <mesh filename="package://fanuc_r2000ic_support/meshes/r2000ic125l/collision/link_1.stl" />
+          <mesh filename="package://fanuc_r2000ic_support/meshes/r2000ic125l/collision/link_1.STL" />
         </geometry>
       </collision>
       <inertial>
@@ -66,14 +66,14 @@
       <visual>
         <origin xyz="0 0 0" rpy="0 0 0"/>
         <geometry>
-          <mesh filename="package://fanuc_r2000ic_support/meshes/r2000ic125l/visual/link_2.stl" />
+          <mesh filename="package://fanuc_r2000ic_support/meshes/r2000ic125l/visual/link_2.STL" />
         </geometry>
         <xacro:material_fanuc_yellow />
       </visual>
       <collision>
         <origin xyz="0 0 0" rpy="0 0 0"/>
         <geometry>
-          <mesh filename="package://fanuc_r2000ic_support/meshes/r2000ic125l/collision/link_2.stl" />
+          <mesh filename="package://fanuc_r2000ic_support/meshes/r2000ic125l/collision/link_2.STL" />
         </geometry>
       </collision>
       <inertial>
@@ -95,14 +95,14 @@
       <visual>
         <origin xyz="0 0 0" rpy="0 0 0"/>
         <geometry>
-          <mesh filename="package://fanuc_r2000ic_support/meshes/r2000ic125l/visual/link_3.stl" />
+          <mesh filename="package://fanuc_r2000ic_support/meshes/r2000ic125l/visual/link_3.STL" />
         </geometry>
         <xacro:material_fanuc_yellow />
       </visual>
       <collision>
         <origin xyz="0 0 0" rpy="0 0 0"/>
         <geometry>
-          <mesh filename="package://fanuc_r2000ic_support/meshes/r2000ic125l/collision/link_3.stl" />
+          <mesh filename="package://fanuc_r2000ic_support/meshes/r2000ic125l/collision/link_3.STL" />
         </geometry>
       </collision>
       <inertial>
@@ -124,14 +124,14 @@
       <visual>
         <origin xyz="0 0 0" rpy="0 0 0"/>
         <geometry>
-          <mesh filename="package://fanuc_r2000ic_support/meshes/r2000ic125l/visual/link_4.stl" />
+          <mesh filename="package://fanuc_r2000ic_support/meshes/r2000ic125l/visual/link_4.STL" />
         </geometry>
         <xacro:material_fanuc_yellow />
       </visual>
       <collision>
         <origin xyz="0 0 0" rpy="0 0 0"/>
         <geometry>
-          <mesh filename="package://fanuc_r2000ic_support/meshes/r2000ic125l/collision/link_4.stl" />
+          <mesh filename="package://fanuc_r2000ic_support/meshes/r2000ic125l/collision/link_4.STL" />
         </geometry>
       </collision>
       <inertial>
@@ -153,14 +153,14 @@
       <visual>
         <origin xyz="0 0 0" rpy="0 0 0"/>
         <geometry>
-          <mesh filename="package://fanuc_r2000ic_support/meshes/r2000ic125l/visual/link_5.stl" />
+          <mesh filename="package://fanuc_r2000ic_support/meshes/r2000ic125l/visual/link_5.STL" />
         </geometry>
         <xacro:material_fanuc_yellow />
       </visual>
       <collision>
         <origin xyz="0 0 0" rpy="0 0 0"/>
         <geometry>
-          <mesh filename="package://fanuc_r2000ic_support/meshes/r2000ic125l/collision/link_5.stl" />
+          <mesh filename="package://fanuc_r2000ic_support/meshes/r2000ic125l/collision/link_5.STL" />
         </geometry>
       </collision>
       <inertial>
@@ -182,14 +182,14 @@
       <visual>
         <origin xyz="0 0 0" rpy="0 0 0"/>
         <geometry>
-          <mesh filename="package://fanuc_r2000ic_support/meshes/r2000ic125l/visual/link_6.stl" />
+          <mesh filename="package://fanuc_r2000ic_support/meshes/r2000ic125l/visual/link_6.STL" />
         </geometry>
         <xacro:material_fanuc_black />
       </visual>
       <collision>
         <origin xyz="0 0 0" rpy="0 0 0"/>
         <geometry>
-          <mesh filename="package://fanuc_r2000ic_support/meshes/r2000ic125l/collision/link_6.stl" />
+          <mesh filename="package://fanuc_r2000ic_support/meshes/r2000ic125l/collision/link_6.STL" />
         </geometry>
       </collision>
       <inertial>
