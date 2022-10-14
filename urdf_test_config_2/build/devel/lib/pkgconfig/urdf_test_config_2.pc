@@ -1,0 +1,8 @@
+prefix=/home/cerlab/Tim/r2000ic_environment/urdf_test_config_2/build/devel
+
+Name: urdf_test_config_2
+Description: Description of urdf_test_config_2
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

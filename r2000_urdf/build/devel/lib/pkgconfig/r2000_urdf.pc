@@ -1,0 +1,8 @@
+prefix=/home/cerlab/Tim/r2000ic_environment/r2000_urdf/build/devel
+
+Name: r2000_urdf
+Description: Description of r2000_urdf
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

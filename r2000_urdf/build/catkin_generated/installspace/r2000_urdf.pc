@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: r2000_urdf
+Description: Description of r2000_urdf
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
